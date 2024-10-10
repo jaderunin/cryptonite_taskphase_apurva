@@ -17,7 +17,7 @@ We learn that you can specify the cat command with absolute paths as arguments.
 > flag is found by using cat /flag
 ## more catting practice 
 We learn that you can specify the full path to files when using commands like cat, which allows you to access files located in different directories without changing your current working directory and if you can’t change directories (using cd), you must rely on absolute paths to retrieve files.
-> flag is found by finding the path of flag using - find / -name "flag" and then different paths were given i checked the right absolute path then used cat (absolutepath)
+> flag is found by finding the path of flag using - find / -name "flag" where different paths were provided, i checked the right absolute path then used cat (absolutepath)
 ## grepping for a needle in a haystack 
 Sometimes, files are too big to use cat, hence we use the grep command instead. The grep command is used to search for the contents we need. Grep will search the file for lines of text containing our keyword and print them to the console.
 > flag is found using grep pwn.college /challenge/data.txt
@@ -103,6 +103,5 @@ This output shows that ~/ourfile is a symbolic link pointing to /tmp/myfile.
 > ln -s ~/flag ~/not-the-flag
 > /challenge/catflag
 
-> flag is found by 
 
 
