@@ -9,7 +9,6 @@ If no files are provided, then cat will read from the terminal input and output 
 hacker@commands~cat-not-the-pet-but-the-command:~$ pwd
 /home/hacker
 hacker@commands~cat-not-the-pet-but-the-command:~$ ls
-COLLEGE  Desktop  PWN  a  f  flag  instructions  myflag  the-flag
 hacker@commands~cat-not-the-pet-but-the-command:~$ cat flag
 pwn.college{chXZ0p39Tz8eHmZoHQYnd3dltGr.dFzN1QDL1YjN0czW}
 hacker@commands~cat-not-the-pet-but-the-command:~$ 
