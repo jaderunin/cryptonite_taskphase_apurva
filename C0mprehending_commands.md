@@ -106,4 +106,4 @@ This output shows that ~/ourfile is a symbolic link pointing to /tmp/myfile.
 
 > flag is found by 
 
-	•	Hard Link: Think of this like having
+
