@@ -10,3 +10,12 @@ both display the user (USER column), the PID, the TTY, the start time of the pro
 > flag: ps -ef then run the executable file
 ## killing
 kill will terminate a process in a way that gives it a chance to get its affairs in order before ceasing to exist
+> flag: 
+<img width="709" alt="Screenshot 2024-10-15 at 1 32 12 PM" src="https://github.com/user-attachments/assets/fff3880a-a1f0-402a-8e7a-ffba869ae60c">
+## interrupting
+cntrl c interrupts the process 
+> flag: <img width="691" alt="Screenshot 2024-10-15 at 1 34 09 PM" src="https://github.com/user-attachments/assets/5a316b8a-6f25-49c7-922d-b60ec0290f4b">
+## suspending 
+You can suspend processes to the background with Ctrl-Z. 
+> flag: pwn.college{cglk1k9IXx3_3wf0-lgNef4mX0u.dVDN4QDL1YjN0czW}
+
