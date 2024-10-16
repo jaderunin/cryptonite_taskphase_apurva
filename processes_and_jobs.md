@@ -33,6 +33,11 @@ all you have to do is append a & to the command to start bg process without susp
 > flag: 
 <img width="755" alt="Screenshot 2024-10-15 at 3 31 08 PM" src="https://github.com/user-attachments/assets/e7a5287a-fcb6-4d0a-a322-f114347618d6">
 ## exit codes
+> flag:
+/challenge/get-code
+echo $?  # This will print the exit code of the previous command
+/challenge/submit-code $?  # Submits the exit code to the next challenge step
+
 
 
 
